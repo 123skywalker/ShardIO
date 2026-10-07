@@ -1,6 +1,7 @@
 build*/
 build-*/
 bench/
+tests/
 scripts/
 .cache/
 compile_commands.json
